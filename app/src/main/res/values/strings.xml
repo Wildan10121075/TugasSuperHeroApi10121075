@@ -4,4 +4,8 @@
     <string name="powerstats">Powerstats</string>
     <string name="wildan_permana_10121075">Wildan Permana - 10121075</string>
     <string name="pemrograman_android_3">Pemrograman Android 3</string>
+    <string name="nama_superhero">Nama Superhero</string>
+    <string name="image_superhero_loki">Image Superhero Loki</string>
+    <string name="isi_data_biography_superhero">Isi Data Biography Superhero</string>
+    <string name="isi_data_powerstats_superhero">Isi Data Powerstats Superhero</string>
 </resources>

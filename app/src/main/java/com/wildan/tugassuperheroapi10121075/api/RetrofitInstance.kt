@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitInstance {
-    private const val BASE_URL = "https://www.superheroapi.com/api.php/85b28f9f8e65a25969e78822b1858c36/"
+    private const val BASE_URL = "https://www.superheroapi.com/api/85b28f9f8e65a25969e78822b1858c36/"
 
     val api: SuperheroApi by lazy {
         Retrofit.Builder()

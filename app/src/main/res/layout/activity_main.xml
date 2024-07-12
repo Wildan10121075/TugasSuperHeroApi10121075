@@ -24,6 +24,7 @@
                 android:id="@+id/superheroImage"
                 android:layout_width="match_parent"
                 android:layout_height="500dp"
+                android:background="@drawable/loki_bg"
                 android:contentDescription="@string/image_superhero_loki"
                 app:layout_constraintTop_toTopOf="@id/cd_image"
                 app:layout_constraintStart_toStartOf="@id/cd_image"
